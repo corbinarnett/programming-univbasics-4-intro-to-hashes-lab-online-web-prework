@@ -2,9 +2,7 @@ def new_hash
   Hash.new
 end
 
-def my_hash {
-  name: "Corbin"
-}
+def my_hash 
 
 end
 
